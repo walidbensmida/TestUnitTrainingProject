@@ -11,9 +11,12 @@ public class TestNewBranch {
 	      
 	      System.out.println("Anas Ikram");
 	      
+<<<<<<< develop
 	      System.out.println("Anas Ikram Walid");
 
 	      
+=======
+>>>>>>> fd4b8c9 commit T4
 	   }
 	
 }
