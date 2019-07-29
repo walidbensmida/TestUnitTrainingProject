@@ -6,7 +6,6 @@ public class Contact {
    public Contact() {
       super();
    }
-   //***
    public Contact(long id, String firstName,
          String phone) {
       super();
