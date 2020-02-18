@@ -11,7 +11,7 @@ public class MessageUtil {
       this.message = message;
    }
       
-   // prints the message
+   // prints the messages
    public String printMessage(){
       System.out.println(message);
       return message;
